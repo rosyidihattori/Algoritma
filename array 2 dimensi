@@ -1,0 +1,11 @@
+import numpy as np
+
+arr = np.array([[3, 2, 1], [6, 4, 5]])
+
+print(arr)
+
+//Maka didapatkan hasilnya sebagai berikut://
+
+[[3 2 1]
+
+ [6 4 5]]
