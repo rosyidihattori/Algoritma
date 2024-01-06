@@ -1,0 +1,9 @@
+import numpy as np
+
+arr = np.array([1, 2, 3, 4, 5])
+
+print(arr)
+
+//Maka hasilnya adalah//
+
+[3, 0, 4, 9, 8]
