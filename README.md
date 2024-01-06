@@ -1,2 +1,1 @@
-# Algoritma
-Array
+contoh pembuatan array 2 dimensi menggunakan phyton
