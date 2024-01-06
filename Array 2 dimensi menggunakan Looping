@@ -1,0 +1,14 @@
+Publicc class array 2D{
+  Public static void main(String[] args) {
+    nama[0] [0]="Siti";
+    nama[0] [1]="Rido";
+    nama[1] [0]="Rifki";
+    nama[1] [1]="Indra";
+
+    for(int i=0; i<2; i++){
+    for(int j=0; j<2; j++){
+      System.out.print(nama[i][j]+" ");
+    }
+System.out.printin("   ");
+    
+}
